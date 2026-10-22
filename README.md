@@ -36,4 +36,12 @@
 
   - Under Collaboration restrictions, review the available options and accept the default settings.
   - Select Save at the top of the screen.
-## Add guest users to the directory
+
+## Part 5: Adding guest users to the directory
+
+ ### Adding a guest user
+  - Sign in to Microsoft Entra admin center.
+  - In the left navigation, under Entra ID, select Users, then select All users.
+  - Select New user and on the New user menu, select "Invite external user" and add guest user information.
+
+    <img width="779" height="420" alt="image" src="https://github.com/user-attachments/assets/ae02432b-fee7-45a2-bd0f-df3557748fc9" />
